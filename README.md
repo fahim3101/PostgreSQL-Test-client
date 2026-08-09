@@ -1,10 +1,10 @@
-# 🛍️ SCIC/EJP-13 — Frontend
+# 🛍️ Prisma & PostgreSQL — Frontend
 
 A modern, responsive e-commerce storefront built with **React 18**, **Vite**, **Tailwind CSS**, and **Axios**. Consumes the SCIC/EJP-13 backend REST API to deliver a full shopping experience — browse, search, wishlist, checkout, and admin management.
 
 > 🔗 **Live App:** [https://postgre-sql-test-client.vercel.app](https://postgre-sql-test-client.vercel.app)
 > 🛠️ **Live API:** [https://postgresql-test-server.onrender.com](https://postgresql-test-server.onrender.com)
-> 📦 **Repo:** [github.com/fahim3101/PostgreSQL-Test-client](https://github.com/fahim3101/PostgreSQL-Test-client)
+> 📦 **Repo Backend:** [github.com/fahim3101/PostgreSQL-Test-server](https://github.com/fahim3101/PostgreSQL-Test-server)
 
 ---
 
